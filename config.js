@@ -1,19 +1,17 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    introTitle: 'Chị Công Túa à',
+    introDesc: `Ân oán giang hồ nuôi ta lớn
+    Đạo nghĩa giang hồ dạy ta khôn`,
+    btnIntro: 'thổi nến đi chị',
+    title: 'Phải chăng nay là ngày chị iu đủ tuổi đi dẩy bar',
+    desc: 'và đủ tuổi đi tù nữa sao?! ',
+    btnYes: 'Ủa chứ sao',
+    btnNo: 'Không',
+    question:'10+ 2020 có 30 OG, vậy mà lỡ sao em lại vướng vào lưới tình này của chị OGL Túa vậy?!',
+    btnReply: 'Ừ chứ sao, t là OGL tuyệt vời nhất mà',
+    reply: 'Em yêu chị lắm chị biết ko?!',
+    mess: 'Tuyệt vời 10/10',
+    messDesc: 'Đến giờ nhận quà rùi chị.',
+    btnAccept: 'Hjhj',
+    messLink: 'https://www.greetingsisland.com/ecard/pc3fyo5bpekk/en'
 }
